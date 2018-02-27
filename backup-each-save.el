@@ -3,6 +3,7 @@
 ;; Copyright (C) 2004  Free Software Foundation, Inc.
 
 ;; Author: Benjamin Rutt <brutt@bloomington.in.us>
+;; Maintainer: Conor Nash <conor@nashcobusinessservicesllc.com>
 ;; Version: 1.4
 
 ;; This file is free software; you can redistribute it and/or modify
