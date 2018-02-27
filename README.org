@@ -1,0 +1,6 @@
+
+
+backup-each-save.el is a comprehensive system for saving backups on each buffer saving. 
+
+
+
